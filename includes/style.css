@@ -1,0 +1,19 @@
+/* your styles go here */
+
+#gallery{
+	height: 100vh;
+}
+.imageGallery{
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 20%;
+	background-position: center;
+}
+
+.modal-body > img{
+	width: 100%;
+}
+
+.modal-dialog{
+	width: 90%;
+}
